@@ -1,5 +1,10 @@
-## Hi there 👋
+# Hi Welcome, i'm Woojin Shon 👋
 
+## AI Researcher / Data Engineering
+### Branch : Timeseries prediction
+
+### Tools 🔭 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/PyTorch-EE4CC2C?style=flat-square&logo=PyTorch&logoColor=orange"/>
 <!--
 **schJinny/schJinny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
