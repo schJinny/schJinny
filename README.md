@@ -1,6 +1,6 @@
 # Hi Welcome, i'm Woojin Shon 👋
 
-# AI Researcher / Data Engineering
+## AI Researcher / Data Engineering
 ## Branch : Timeseries prediction
 
 ### stacks 🔭 
