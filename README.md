@@ -1,11 +1,11 @@
 # Hi Welcome, i'm Woojin Shon 👋
 Applied Data Sicence Lab [M.S Student]
 ## AI Researcher / Data Engineering
-## Branch : Timeseries prediction
+## Branch : Timeseries prediction, Stock trading system
 
 
 ### stacks 🔭 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4CC2C?style=flat-square&logo=PyTorch&logoColor=orange"/> <img src="https://img.shields.io/badge/R Program-276DC3?style=flat-square&logo=RStudio IDE&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4CC2C?style=flat-square&logo=PyTorch&logoColor=orange"/>
 
 ### tools 🌱
 <img src="https://img.shields.io/badge/Anaconda-EE4CC2C?style=flat-square&logo=Anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/Pycharm-EE4CC2C?style=flat-square&logo=PyCharm&logoColor=black"/>
@@ -18,6 +18,7 @@ Applied Data Sicence Lab [M.S Student]
 ### Domestic Journal
 ●   이병천, 오진영, 임수빈, 손우진, 문지훈. (2023). 텍스트 마이닝 기반의 국내 빅데이터 처리 및 분석 사례 연구: 아마존 웹 서비스를 중심으로. 한국전자거래학회지, 28(2), 53-74.
 
+●   손우진, 김재윤. (2025). 듀얼 LSTM 기반 주가지수선물 예측: 데이 트레이딩을 위한 통합 트레이딩 시스템 개발. 한국데이터정보과학회지, 36(2), 191-205. 10.7465/jkdi.2025.36.2.191
 
 ### Conference
 ●   한예찬, 손우진, 김재윤. (2023-02-08). 데이터 증강 기법이 의료 이미지 분류 모델의 예측 성능에 미치는 영향. 한국통신학회 학술대회논문집, 1,146 - 1,147.
